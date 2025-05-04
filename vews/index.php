@@ -41,14 +41,14 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link" href="#">Beranda</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Tentang</a></li>
+                <li class="nav-item"><a class="nav-link" href="about.php">Tentang</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Integrasi</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Perencanaan</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ekonomi</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Sosial</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Budaya</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Infrastruktur</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Metaverse</a></li>
+                <!-- <li class="nav-item"><a class="nav-link" href="#">Metaverse</a></li> -->
             </ul>
         </div>
     </nav>
