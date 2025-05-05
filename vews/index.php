@@ -42,7 +42,7 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link" href="#">Beranda</a></li>
                 <li class="nav-item"><a class="nav-link" href="about.php">Tentang</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Integrasi</a></li>
+                <li class="nav-item"><a class="nav-link" href="integrasi.php">Integrasi</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Perencanaan</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ekonomi</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Sosial</a></li>
