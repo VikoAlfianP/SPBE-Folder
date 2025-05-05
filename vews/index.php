@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPBE Kota Semarang</title>
+    <title>SPBE Kecamatan</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
@@ -34,13 +34,13 @@
 
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="#">Pemerintah Kota Semarang</a>
+        <a class="navbar-brand" href="#">Pemerintah Kecamatan</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link" href="#">Beranda</a></li>
+                <li class="nav-item"><a class="nav-link" href="index.php">Beranda</a></li>
                 <li class="nav-item"><a class="nav-link" href="about.php">Tentang</a></li>
                 <li class="nav-item"><a class="nav-link" href="integrasi.php">Integrasi</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Perencanaan</a></li>
@@ -56,7 +56,7 @@
     <!-- Banner Section -->
     <div class="banner">
         <h1>Selamat Datang di SPBE</h1>
-        <p>Sistem Pemerintahan Berbasis Elektronik Kota Semarang</p>
+        <p>Sistem Pemerintahan Berbasis Elektronik Kecamatan</p>
     </div>
 
     <!-- Search Bar -->
