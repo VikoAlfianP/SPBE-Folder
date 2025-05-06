@@ -46,7 +46,7 @@
                 <li class="nav-item"><a class="nav-link" href="#">Perencanaan</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ekonomi</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Sosial</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Budaya</a></li>
+                <li class="nav-item"><a class="nav-link" href="pages/budaya.php">Budaya</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Infrastruktur</a></li>
                 <!-- <li class="nav-item"><a class="nav-link" href="#">Metaverse</a></li> -->
             </ul>
