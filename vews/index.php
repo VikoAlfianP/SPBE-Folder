@@ -43,11 +43,13 @@
                 <li class="nav-item"><a class="nav-link" href="index.php">Beranda</a></li>
                 <li class="nav-item"><a class="nav-link" href="about.php">Tentang</a></li>
                 <li class="nav-item"><a class="nav-link" href="integrasi.php">Integrasi</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Perencanaan</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ekonomi</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Sosial</a></li>
+                <li class="nav-item"><a class="nav-link" href="perencanaan.php">Perencanaan</a></li>
+                <li class="nav-item"><a class="nav-link" href="ekonomi.php">Ekonomi</a></li>
+                <li class="nav-item"><a class="nav-link" href="sosial.php">Sosial</a></li>
                 <li class="nav-item"><a class="nav-link" href="pages/budaya.php">Budaya</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Infrastruktur</a></li>
+                <li class="nav-item"><a class="nav-link" href="infrastruktur.php">Infrastruktur</a></li>
+                <li class="nav-item"><a class="nav-link text-danger" href="logout.php">logout</a></li>
+                <!-- <li class="nav-item"><a class="nav-link text-danger" onclick="window.location.href='../../login.php'">Logout</a> -->
                 <!-- <li class="nav-item"><a class="nav-link" href="#">Metaverse</a></li> -->
             </ul>
         </div>
@@ -62,13 +64,13 @@
     <!-- Search Bar -->
     <div class="search-bar text-center">
         <input type="text" class="form-control" placeholder="Telusuri kebutuhanmu disini..." aria-label="Search">
-        <button class="btn btn-danger mt-2">Cari</button>
+        <button><a class="nav-link" href="pages\layanan\form_layanan.php">Layanan</a></button>
     </div>
 
     <!-- Footer -->
     <footer class="text-center mt-5">
         <div class="container">
-            <p>&copy; 2025 Pemerintah Kota Semarang. All rights reserved.</p>
+            <p>&copy; 2025 Pemerintah Kecamatan. All rights reserved.</p>
         </div>
     </footer>
 
